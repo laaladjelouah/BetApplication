@@ -1,6 +1,6 @@
 <?php
 
-require_once('dbconfig.php');
+require_once('dbConfig.php');
 
 class USER
 {	
